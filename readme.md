@@ -14,3 +14,14 @@ The userscript will now run automatically on any github pull-request page.
 ### Configuration
 
 Modify the 'conf' variable at the top of the userscript file to alter the configuration or enablement of any feature.
+
+### Example
+
+##### Existing File Diff
+![Existing](images/existing.png)
+
+##### Enhanced File Diff
+![Enhanced](images/enhanced.png)
+
+##### Hidden File Diff
+![Hidden](images/hidden.png)
